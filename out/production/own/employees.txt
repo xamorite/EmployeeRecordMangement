@@ -1,0 +1,2 @@
+1;Veraline;Ndulue;21;90000.0;Flutter;2002-09-20;Adigbe;Abeokuta;9131425144
+2;Vera;Becky;34;30000.0;Kotlin;2002-09-20;Alowonle;PH;9055801268
